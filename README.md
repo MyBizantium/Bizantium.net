@@ -1,2 +1,2 @@
-# Bizantium.net
+# Bizantium.xyz
 Web Support
